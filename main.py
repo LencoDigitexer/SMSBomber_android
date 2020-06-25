@@ -4148,8 +4148,8 @@ class sms_bomberApp(App):
     def build(self):
         
         #self.console = TextInput( readonly = True )
-        self.number_input = TextInput( halign = "center", font_size = "35sp", input_filter= "int" )
-        self.button = Button( text = "Начать", on_press = self.ddos )
+        self.number_input = TextInput( halign = "center", font_size = "35sp", input_filter="int")
+        self.button = Button( text = "Начать атаку", on_press = self.ddos )
 
         bl = BoxLayout( orientation = "vertical" )
         #bl.add_widget(self.console)
