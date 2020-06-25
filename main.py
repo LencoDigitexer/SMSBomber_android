@@ -4076,7 +4076,7 @@ class sms_bomberApp(App):
 
                 
 
-                brea
+                
 
 
 
@@ -4124,7 +4124,7 @@ class sms_bomberApp(App):
 
                 print('[+] Delivery отправлено! || Кол-во - '+ str(R))
 
-                print('Возникли вопросы ? Пишите разработчику в ВК [ --> Иван Зайцев <-- ]')
+                
 
                 time.sleep(0.1)
 
