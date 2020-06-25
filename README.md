@@ -5,9 +5,9 @@
 
 ![](/pic/previev.jpg)
 
-[Скачать](https://github.com/LencoDigitexer/SMSBomber_android/releases/download/release/smsbomber-0.1-armeabi-v7a-debug.apk) 
+[Скачать на надроид](https://github.com/LencoDigitexer/SMSBomber_android/releases/download/release/smsbomber-0.1-armeabi-v7a-debug.apk) 
 
 ToDo
 - [ ] Кнопку остановить
-- [ ] Логирование отправкип
+- [ ] Логирование отправки
 - [ ] Фоновое выполнение
