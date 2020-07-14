@@ -5,7 +5,9 @@
 
 ![](/pic/previev.jpg)
 
-[Скачать на надроид](https://github.com/LencoDigitexer/SMSBomber_android/releases/download/release/smsbomber-0.1-armeabi-v7a-debug.apk) 
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=ZLyBvn4_MJc)](https://www.youtube.com/watch?v=ZLyBvn4_MJc "Everything Is AWESOME")
+
+[Скачать на андроид](https://github.com/LencoDigitexer/SMSBomber_android/releases/download/release/smsbomber-0.1-armeabi-v7a-debug.apk) 
 
 ToDo
 - [ ] Кнопку остановить
